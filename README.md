@@ -20,6 +20,7 @@ Hello! I'm a student who tries to take a step further every day with the goal of
 ![Git](https://img.shields.io/badge/Git-A52A2A?&style=flat-round&logo=Git&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-000000?&style=flat-round&logo=GitHub&logoColor=white) &nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-FFDCDC?&style=flat-round&logo=GitLab&logoColor=white) &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-FFA500?&style=flat-round&logo=Node.js&logoColor=white) &nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-1E90FF?&style=flat-round&logo=Flutter&logoColor=white) &nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-483D8B?&style=flat-round&logo=MySQL&logoColor=white) &nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-EE84EA?&style=flat-round&logo=Visual%20Studio&logoColor=white) &nbsp;
