@@ -4,8 +4,6 @@ Hello! I'm a student who tries to take a step further every day with the goal of
 ## :bell: Hits &nbsp; ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRyumaker&count_bg=%23FF9E9B&title_bg=%23FF3232&icon=&icon_color=%23D53838&title=Hits&edge_flat=false)
 
 ## 💪 Self-Improvement Stats  
-![Ryumaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryumaker&show_icons=true&theme=gruvbox) &nbsp; &nbsp; &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryumaker&layout=compact&theme=gruvbox)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsouheev4968)](https://solved.ac/lsouheev4968/)
 
 ## :computer: Skills
