@@ -42,7 +42,7 @@
 
 <td valign="top" width="50%" style="vertical-align: top;">
 #### 🏆 Top Langs
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryumaker&layout=compact&theme=cobalt" style="width: 327px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryumaker&exclude_repo=Ryumaker.github.io&layout=compact&theme=cobalt" style="width: 327px;" />
 </td>
 
 </tr>
