@@ -1,7 +1,5 @@
-# Maker For Everyone, Ryumaker 👋
-Hello! I'm a student who tries to take a step further every day with the goal of becoming a full stack developer.
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90text=Maker%20For%20Everyone,-nl-BackEnd%20Developer,%20Ryumaker)
 
-## :bell: Hits &nbsp; ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRyumaker&count_bg=%23FF9E9B&title_bg=%23FF3232&icon=&icon_color=%23D53838&title=Hits&edge_flat=false)
 
 ## :computer: Skills
 ### :black_nib: Languages
