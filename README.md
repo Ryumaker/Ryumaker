@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BackEnd%20Developer%20For%20Everyone&fontSize=50&fontAlign=50&fontAlignY=40&desc=Challenge%20Learning%20Passion&descSize=20&descAlign=77&descAlignY=51)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BackEnd%20Developer%20For%20Everyone&fontSize=50&fontAlign=50&fontAlignY=40&desc=Challenge%20Learning%20Passion&descSize=20&descAlign=82&descAlignY=51)
 
 <div align="center">
 ✋ Hello! I have been consistently studying and working hard to become a backend developer.
