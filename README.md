@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maker%20For%20Everyone&fontSize=50&fontAlign=50&fontAlignY=40&desc=BackEnd%20Developer,%20Ryumaker&descSize=20&descAlign=50&descAlignY=60)
 
+<div align="center">
 ## :computer: Tech Stack
 ### :black_nib: Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=plastic) &nbsp;
@@ -34,3 +35,5 @@
 
 ### :fire: Github Stats
 [![Ryumaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryumaker&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
