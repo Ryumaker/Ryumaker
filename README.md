@@ -33,8 +33,7 @@
 <img src="https://img.shields.io/badge/Notion-%23000000?style=plastic&logo=notion&logoColor=white" alt="Notion">
 <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman">
 
-<br>
-<br>
+<br><br>
 
 <table width="960px">
 <tr>
