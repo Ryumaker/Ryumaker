@@ -32,17 +32,5 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000?style=plastic&logo=notion&logoColor=white) &nbsp;
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=plastic&logo=postman&logoColor=white) &nbsp;
 
-<table width="960px">
-<tr>
-
-<td valign="top" width="50%" style="vertical-align: top;">
-#### 📝 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Ryumaker&theme=radical&show_icons=true" style="width: 400px;" />
-</td>
-
-<td valign="top" width="50%" style="vertical-align: top;">
-#### 🏆 Top Langs
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryumaker&exclude_repo=Ryumaker.github.io&hide=kotlin&layout=compact&theme=cobalt" style="width: 327px;" />
-</td>
-
-</tr>
+### :fire: Github Stats
+[![Ryumaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryumaker)](https://github.com/anuraghazra/github-readme-stats)
