@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-8B0000?&style=flat-round&logo=JavaScript&logoColor=white) &nbsp;
 ![Dart](https://img.shields.io/badge/Dart-8B4513?&style=flat-round&logo=Dart&logoColor=white) &nbsp;
 
-### :black_nib: FrameWorks
+### :black_nib: Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%23E8F7E1?style=plastic&logo=Spring%20Boot) &nbsp;
 ![Spring Security](https://img.shields.io/badge/Spring_Security-%23E8F7E1?style=plastic&logo=Spring%20Security) &nbsp;
 ![Spring](https://img.shields.io/badge/Spring-%23E8F7E1?style=plastic&logo=Spring) &nbsp;
