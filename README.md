@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90text=Maker%20For%20Everyone,-nl-BackEnd%20Developer,%20Ryumaker)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maker%20For%20Everyone&fontSize=50&fontAlign=50&fontAlignY=40&desc=BackEnd%20Developer,%20Ryumaker&descSize=20&descAlign=50&descAlignY=60)
 
 ## :computer: Skills
 ### :black_nib: Languages
