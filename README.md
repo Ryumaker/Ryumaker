@@ -33,4 +33,4 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=plastic&logo=postman&logoColor=white) &nbsp;
 
 ### :fire: Github Stats
-[![Ryumaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryumaker)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryumaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryumaker&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
