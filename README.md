@@ -2,6 +2,7 @@
 
 <div align="center">
 ✋ Hello! I have been consistently studying and working hard to become a backend developer.
+<br><br>
 <h2>💻 Tech Stack</h2>
 <h3>✒️ Languages</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic" alt="Java">
