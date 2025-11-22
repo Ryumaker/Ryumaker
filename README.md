@@ -33,7 +33,19 @@
 <img src="https://img.shields.io/badge/Notion-%23000000?style=plastic&logo=notion&logoColor=white" alt="Notion">
 <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman">
 
+<table width="960px">
+<tr>
+
+<td valign="top" width="50%" style="vertical-align: top;">
 <h3>🔥 Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Ryumaker&show_icons=true&theme=synthwave" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Ryumaker&show_icons=true&theme=synthwave" alt="GitHub stats" style="width: 400px;" />
+</td>
+
+<td valign="top" width="50%" style="vertical-align: top;">
+<h3>🏆 Algorithm</h3>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lsouheev4968" alt="Algorithm" style="width: 400px;" />
+</td>
+
+</tr>
 
 </div>
