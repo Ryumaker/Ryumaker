@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maker%20For%20Everyone&fontSize=50&fontAlign=50&fontAlignY=40&desc=BackEnd%20Developer,%20Ryumaker&descSize=20&descAlign=50&descAlignY=60)
 
 <div align="center">
+✋ Hello! I have been consistently studying and working hard to become a backend developer.
 <h2>💻 Tech Stack</h2>
 <h3>✒️ Languages</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic" alt="Java">
