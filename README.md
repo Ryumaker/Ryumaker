@@ -1,24 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maker%20For%20Everyone&fontSize=50&fontAlign=50&fontAlignY=40&desc=BackEnd%20Developer,%20Ryumaker&descSize=20&descAlign=50&descAlignY=60)
 
-## :computer: Skills
+## :computer: Tech Stack
 ### :black_nib: Languages
+![Java](https://img.shields.io/badge/Java-007396?style=plastic) &nbsp;
 ![Python](https://img.shields.io/badge/Python-FF3232?&style=flat-round&logo=Python&logoColor=white) &nbsp;
-![C++](https://img.shields.io/badge/C++-2828CD?&style=flat-round&logo=C%2B%2B&logoColor=white) &nbsp;
 ![HTML](https://img.shields.io/badge/HTML-0A6E0A?&style=flat-round&logo=HTML5&logoColor=white) &nbsp;
 ![CSS](https://img.shields.io/badge/CSS-C71F8F?&style=flat-round&logo=CSS3&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-8B0000?&style=flat-round&logo=JavaScript&logoColor=white) &nbsp;
 ![Dart](https://img.shields.io/badge/Dart-8B4513?&style=flat-round&logo=Dart&logoColor=white) &nbsp;
 
-### :black_nib: Platforms & Tools
-![Git](https://img.shields.io/badge/Git-A52A2A?&style=flat-round&logo=Git&logoColor=white) &nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-000000?&style=flat-round&logo=GitHub&logoColor=white) &nbsp;
-![GitLab](https://img.shields.io/badge/GitLab-FFDCDC?&style=flat-round&logo=GitLab&logoColor=white) &nbsp;
-![Slack](https://img.shields.io/badge/Slack-708090?&style=flat-round&logo=Slack&logoColor=white) &nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF8C00?&style=flat-round&logo=Postman&logoColor=white) &nbsp;
-![Figma](https://img.shields.io/badge/Figma-8B008B?&style=flat-round&logo=Figma&logoColor=white) &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-FFA500?&style=flat-round&logo=Node.js&logoColor=white) &nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-0000FF?&style=flat-round&logo=Flutter&logoColor=white) &nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-483D8B?&style=flat-round&logo=MySQL&logoColor=white) &nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-EE84EA?&style=flat-round&logo=Visual%20Studio&logoColor=white) &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1E90FF?&style=flat-round&logo=Visual%20Studio%20Code&logoColor=white) &nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-64CD3C?&style=flat-round&logo=Android%20Studio&logoColor=white) &nbsp;
+### :black_nib: FrameWorks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%23E8F7E1?style=plastic&logo=Spring%20Boot) &nbsp;
+![Spring Security](https://img.shields.io/badge/Spring_Security-%23E8F7E1?style=plastic&logo=Spring%20Security) &nbsp;
+![Spring](https://img.shields.io/badge/Spring-%23E8F7E1?style=plastic&logo=Spring) &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=plastic&logo=nodedotjs&logoColor=white) &nbsp;
+
+### :black_nib: Databases
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=plastic&logo=MySQL&logoColor=white) &nbsp;
+![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=plastic&logo=Redis&logoColor=white) &nbsp;
+
+### :black_nib: Event Streaming
+![Kafka](https://img.shields.io/badge/Kafka-%23231F20?style=plastic&logo=apachekafka&logoColor=white) &nbsp;
+
+### :black_nib: DevOps
+![Docker](https://img.shields.io/badge/Docker-%23D0F0FF?style=plastic&logo=Docker) &nbsp;
+![Github Actions](https://img.shields.io/badge/Github_Actions-%23000000?style=plastic&logo=githubactions) &nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=plastic) &nbsp;
+
+### :black_nib: Tools
+![Git](https://img.shields.io/badge/Git-%23000000?style=plastic&logo=git&logoColor=white) &nbsp;
+![Notion](https://img.shields.io/badge/Notion-%23000000?style=plastic&logo=notion&logoColor=white) &nbsp;
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=plastic&logo=postman&logoColor=white) &nbsp;
