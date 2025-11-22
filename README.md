@@ -34,4 +34,3 @@
 
 ### :fire: Github Stats
 [![Ryumaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryumaker&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Ryumaker's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryumaker&exclude_repo=Ryumaker.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
