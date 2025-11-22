@@ -1,14 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maker%20For%20Everyone&fontSize=50&fontAlign=50&fontAlignY=40&desc=BackEnd%20Developer,%20Ryumaker&descSize=20&descAlign=50&descAlignY=60)
 
-<div align="center">
 ## :computer: Tech Stack
 ### :black_nib: Languages
+<p align="center">
 ![Java](https://img.shields.io/badge/Java-007396?style=plastic)
 ![Python](https://img.shields.io/badge/Python-FF3232?&style=plastic&logo=Python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-0A6E0A?&style=plastic&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=plastic&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-8B0000?&style=plastic&logo=JavaScript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-8B4513?&style=plastic&logo=Dart&logoColor=white)
+</p>
 
 ### :black_nib: Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%23E8F7E1?style=plastic&logo=Spring%20Boot) &nbsp;
