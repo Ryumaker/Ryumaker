@@ -3,12 +3,12 @@
 <div align="center">
 ## :computer: Tech Stack
 ### :black_nib: Languages
-![Java](https://img.shields.io/badge/Java-007396?style=plastic)
-![Python](https://img.shields.io/badge/Python-FF3232?&style=flat-round&logo=Python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-0A6E0A?&style=flat-round&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6?style=plastic&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8B0000?&style=flat-round&logo=JavaScript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-8B4513?&style=flat-round&logo=Dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=plastic) &nbsp;
+![Python](https://img.shields.io/badge/Python-FF3232?&style=plastic&logo=Python&logoColor=white) &nbsp;
+![HTML](https://img.shields.io/badge/HTML-0A6E0A?&style=plastic&logo=HTML5&logoColor=white) &nbsp;
+![CSS](https://img.shields.io/badge/CSS-%231572B6?style=plastic&logo=css&logoColor=white) &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-8B0000?&style=plastic&logo=JavaScript&logoColor=white) &nbsp;
+![Dart](https://img.shields.io/badge/Dart-8B4513?&style=plastic&logo=Dart&logoColor=white) &nbsp;
 
 ### :black_nib: Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%23E8F7E1?style=plastic&logo=Spring%20Boot) &nbsp;
