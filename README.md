@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maker%20For%20Everyone&fontSize=50&fontAlign=50&fontAlignY=40&desc=BackEnd%20Developer,%20Ryumaker&descSize=20&descAlign=50&descAlignY=60)
 
-## :computer: Tech Stack
-### :black_nib: Languages
 <div align="center">
+<h2>💻 Tech Stack</h2>
+<h3>✒️ Languages</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic" alt="Java">
 <img src="https://img.shields.io/badge/Python-FF3232?&style=plastic&logo=Python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/HTML-0A6E0A?&style=plastic&logo=HTML5&logoColor=white" alt="HTML">
